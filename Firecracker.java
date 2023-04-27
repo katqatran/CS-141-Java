@@ -14,7 +14,6 @@ public class Firecracker {
       box();
       plus();
       point();
-      
    }
 
    /**
@@ -41,8 +40,6 @@ public class Firecracker {
       }
    }
    
-   // This method prints the middle portion.
-
    /**
     * Prints a box made of square brackets with a decorative pattern of dashes and slashes inside. The size of the box
     * is determined by the constant SIZE.
@@ -62,7 +59,6 @@ public class Firecracker {
          System.out.println("]");
       }
    }
-
 
    /**
     * Generates the middle section of the ASCII art image.
