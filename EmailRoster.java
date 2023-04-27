@@ -8,6 +8,7 @@ import java.io.*;
 import java.util.*;
 
 public class EmailRoster {
+   
    public static final String ext = "@go.shoreline.edu";
    
    public static void main(String[] args) throws FileNotFoundException {
