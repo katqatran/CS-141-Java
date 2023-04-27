@@ -103,5 +103,4 @@ public class SpamFilter {
       }
       output.print(subject + "\n");
    }
-
 }
