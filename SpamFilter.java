@@ -4,6 +4,7 @@
 // It utilizes a line-based approach to isolate individual emails from the input file, and then employs token-based
 // processing on each line to identify potential spam words.
 // The program can effectively evaluate the contents of each email and make an informed determination on its spam status.
+// To evaluate the functionality of this program, use the file named 'emails.txt' as a test case.
 
 import java.io.*;
 import java.util.*;
