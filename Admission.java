@@ -3,6 +3,7 @@
 // This program allows the user to input information about two applicants, including their SAT or ACT scores and
 // weighted GPA. It then evaluates the applicants using conditional statements to determine which one appears to be the
 // stronger candidate.
+
 import java.util.Scanner;
 
 public class Admission {
