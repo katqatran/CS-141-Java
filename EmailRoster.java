@@ -2,6 +2,7 @@
 //
 // This program will use the contents of a file to create an array of 
 // student names to create a corresponding list of emails.
+// To evaluate the functionality of this program, use the file named 'emails.txt' as a test case.
 
 import java.io.*;
 import java.util.*;
