@@ -1,7 +1,7 @@
 // Katherine Tran
 //
-// This program will use the contents of a file to create an array of 
-// student names to create a corresponding list of emails.
+// This program reads the contents of a file containing student names and generates a list of emails for each student. 
+// The list of emails is created based on the given names.
 // To evaluate the functionality of this program, use the file named 'names.txt' as a test case.
 
 import java.io.*;
