@@ -107,7 +107,7 @@ public class EmailRoster {
 }
 
 /*
-  ----jGRASP exec: java EmailRoster
+
  Students being processed...
          Anna Martinez
          Elfrida Larrega
@@ -149,9 +149,5 @@ public class EmailRoster {
  
  Zeta Ngdogo
  ZNGDOGO@go.shoreline.edu
- 
- 
-  ----jGRASP: operation complete.
- 
  
 */
