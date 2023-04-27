@@ -23,7 +23,7 @@ public class EmailRoster {
    }
 
    /**
-    * The function reads input from a Scanner and loads student names into an array of Strings.
+    * This method reads input from a Scanner and loads student names into an array of Strings.
     * @param input the Scanner to read input from
     * @return the array of Strings containing student names
     */
@@ -39,7 +39,7 @@ public class EmailRoster {
    }
 
    /**
-    * The function generates and prints out a list of students being processed, given an array of their names.
+    * This method generates and prints out a list of students being processed, given an array of their names.
     * @param names an array of Strings containing the names of the students being processed
     */
    public static void studentList(String[] names) {
@@ -71,9 +71,9 @@ public class EmailRoster {
    }
 
    /**
-    * Returns a string representing the number of times the given key appears in the given array of email addresses.
-    * If the key appears only once, an empty string is returned. If the key appears more than once, the number of
-    * duplicates is returned as a string.
+    * This method returns a string representing the number of times the given key appears in the given array of email 
+    * addresses. If the key appears only once, an empty string is returned. If the key appears more than once, the 
+    * number of duplicates is returned as a string.
     * @param emails the array of email addresses to search
     * @param key the email address to search for
     * @return a string representing the number of duplicates of the key in the array, or an empty string if there are no duplicates
@@ -90,12 +90,9 @@ public class EmailRoster {
       }
       return String.valueOf(amount);
    }
-   
-   // This method will prin the name of each student and their
-   // corresponding email address.
 
    /**
-    * Prints out a roster of students and their corresponding email addresses.
+    * This method prints out a roster of students and their corresponding email addresses.
     * @param names an array of strings representing the names of the students
     * @param emails an array of strings representing the email addresses of the students
     */
