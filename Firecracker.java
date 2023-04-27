@@ -3,7 +3,9 @@
 // This program creates ASCII art using text characters. The image is built by utilizing several static methods, each of
 // which is responsible for generating a specific part of the image. The size of the image is determined by a constant
 // value called SIZE, which is used in the for loops to control the number of iterations required to construct the image.
+
 public class Firecracker {
+   
    public static final int SIZE = 5;
    
    public static void main(String[] args) {
@@ -79,7 +81,6 @@ public class Firecracker {
          System.out.println("]");
       }
    }
-     
       
 }
 
