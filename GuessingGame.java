@@ -7,6 +7,7 @@
 import java.util.Scanner;
 
 public class GuessingGame {
+   
    public static final int MAX = 50;
 
    public static void main(String[] args) {
@@ -108,7 +109,7 @@ public class GuessingGame {
 }
 
 /*
-  ----jGRASP exec: java GuessingGame
+
  This program allows you to play a guessing game.
  It will think of a number between 1 and 50
  and will allow you to guess until you get the number.
@@ -162,6 +163,5 @@ public class GuessingGame {
      guesses = 17
      guesses/game  = 5.7
      fewest guesses = 5
- 
-  ----jGRASP: operation complete.
+  
  */
