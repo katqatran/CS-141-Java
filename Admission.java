@@ -43,7 +43,7 @@ public class Admission {
    }
 
     /**
-     * The function calculates and returns the ACT score of an applicant based on their ACT scores in English, Math,
+     * This method calculates and returns the ACT score of an applicant based on their ACT scores in English, Math,
      * Reading, and Science.
      * @param console A Scanner object for taking user input
      * @return The calculated ACT score
@@ -62,7 +62,7 @@ public class Admission {
    }
 
     /**
-     * The function calculates the SAT score for an applicant based on their math, critical reading, and writing scores.
+     * This method calculates the SAT score for an applicant based on their math, critical reading, and writing scores.
      * @param console the Scanner object to read user input
      * @return the calculated SAT score for the applicant
      */
@@ -79,7 +79,7 @@ public class Admission {
    }
 
     /**
-     * The function calculates the GPA score of an applicant based on user input for actual GPA, max GPA, and Transcript
+     * This method calculates the GPA score of an applicant based on user input for actual GPA, max GPA, and Transcript
      * Multiplier.
      * @param console Scanner object used for user input
      * @return GPA score of the applicant
@@ -96,7 +96,7 @@ public class Admission {
    }
 
     /**
-     * The function calculates and returns the overall score of an applicant based on their exam score and GPA.
+     * This method calculates and returns the overall score of an applicant based on their exam score and GPA.
      * @param score the exam score of the applicant.
      * @param GPA the GPA score of the applicant.
      * @return  the overall score of the applicant.
@@ -106,7 +106,7 @@ public class Admission {
    }
 
     /**
-     * The function compares the scores of two applicants and prints out which applicant seems to be better.
+     * This method compares the scores of two applicants and prints out which applicant seems to be better.
      * @param one the score of the first applicant
      * @param two the score of the second applicant
      */
@@ -122,5 +122,4 @@ public class Admission {
       }
    }
 }
-   
    
